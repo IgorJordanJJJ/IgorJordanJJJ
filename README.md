@@ -430,9 +430,9 @@
 
 ### 📫 Связаться со мной
 
-- 🐙 **GitHub:** [https://github.com/IgorJordanJJJ]
-- 💬 **Telegram:** [@jordanigor]
-- 🌐 **Portfolio:** [https://website-business-card-72f2e.web.app/]
+- 🐙 **GitHub профиль:** [github.com/IgorJordanJJJ](https://github.com/IgorJordanJJJ)
+- 💬 **Написать в Telegram:** [@jordanigor](https://t.me/jordanigor)
+- 🌐 **Моё портфолио:** [website-business-card-72f2e.web.app](https://website-business-card-72f2e.web.app/)
 
 ---
 

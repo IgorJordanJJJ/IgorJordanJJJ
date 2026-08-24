@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Igor%20Jordan&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Tech%20Lead%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%20AI%20%26%20Platform%20Engineer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Igor%20Jordan&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Tech%20Lead%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%20AI%20%26amp%3B%20Platform%20Engineer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- ───────────── ПЕРЕКЛЮЧАТЕЛЬ ЯЗЫКА ───────────── -->
 [![Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-36BCF7?style=for-the-badge&labelColor=0f2027)](https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.md)

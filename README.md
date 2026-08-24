@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Igor%20Jordan&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Tech%20Lead%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%20AI%20%26%20Platform%20Engineer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 
-<!-- ─────────────  ПЕРЕКЛЮЧАТЕЛЬ ЯЗЫКА  ───────────── -->
+<!-- ───────────── ПЕРЕКЛЮЧАТЕЛЬ ЯЗЫКА ───────────── -->
 [![Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-36BCF7?style=for-the-badge&labelColor=0f2027)](https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.md)
 [![English](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-2c3440?style=for-the-badge&labelColor=0f2027)](https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.en.md)
 
@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/IgorJordanJJJ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Tech+Lead+%2F+Team+Lead+%E2%80%94+%D0%B2%D0%B5%D0%B4%D1%83+%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;Backend%3A+Java+%7C+Kotlin+%7C+Go+%7C+Python;Mobile%3A+Android+(Kotlin)+%2B+iOS+(Swift%2FSwiftUI);AI%2FML+Engineering+%2B+GPU-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0;Kubernetes+%7C+CI%2FCD+%7C+Platform+Engineering;%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D1%83+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Tech+Lead+%2F+Team+Lead+%E2%80%94+%D0%B2%D0%B5%D0%B4%D1%83+%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;Backend%3A+Java+%7C+Kotlin+%7C+Go+%7C+Python;Mobile%3A+Android+(Kotlin)+%2B+iOS+(Swift%2FSwiftUI);AI%2FML+Engineering+%2B+GPU-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0;Kubernetes+%7C+CI%2FCD+%7C+Platform+Engineering;%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D1%83+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 👋 Привет! Меня зовут Игорь
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Привет! Меня зовут Игорь
 
 ```yaml
 name:       Igor Jordan
@@ -45,19 +45,19 @@ motto:      "Архитектура — это решения, которые д
 <tr>
 <td width="33%" valign="top">
 
-### 🧭 Руковожу
+### <img src="https://api.iconify.design/lucide/compass.svg?color=%232f81f7&width=22" width="22" height="22" alt="" /> Руковожу
 Веду **несколько команд** и **крупные проекты**: архитектура, декомпозиция, роадмап, сроки, качество. Отвечаю и за техническую стратегию, и за людей — рост, грейды, 1-на-1.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Строю AI
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%232f81f7&width=22" width="22" height="22" alt="" /> Строю AI
 Разрабатываю **AI-продукты** и **инфраструктуру под них**: LLM-сервисы, RAG, агенты, inference-кластеры на GPU, MLOps-контур и наблюдаемость моделей.
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ И продолжаю писать код
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%232f81f7&width=22" width="22" height="22" alt="" /> И продолжаю писать код
 Не ушёл в «чистый менеджмент»: пишу продакшн-код на **Java / Kotlin / Go**, делаю приложения под **Android и iOS**, строю **CI/CD** и **Kubernetes**-платформу.
 
 </td>
@@ -66,7 +66,7 @@ motto:      "Архитектура — это решения, которые д
 
 ---
 
-## 🧑‍💼 Лидерство и роль в компании
+## <img src="https://api.iconify.design/lucide/users.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Лидерство и роль в компании
 
 <div align="center">
 
@@ -78,24 +78,24 @@ motto:      "Архитектура — это решения, которые д
 
 </div>
 
-- 👥 **Руковожу большим количеством людей** — несколько команд разработки, распределение зон ответственности, планы развития, перформанс-ревью
-- 🏗️ **Веду крупные проекты** — от идеи и архитектурного дизайна до релиза и эксплуатации в проде
-- 🎤 **Провожу технические собеседования** в компании — Junior → Senior, направления backend / mobile / AI, калибровка грейдов и найм
-- 🤝 **Помогаю соседним модулям и командам** — консультирую по архитектуре, интеграциям, перформансу и инфраструктуре, разбираю сложные инциденты
-- 🧑‍🏫 **Менторю** — code review как инструмент обучения, tech talks, внутренние воркшопы и knowledge sharing
-- 🧩 **Держу баланс** между менеджментом и инженерией — продолжаю активно разрабатывать сам, чтобы не терять контекст и глубину
+- **Руковожу большим количеством людей** — несколько команд разработки, распределение зон ответственности, планы развития, перформанс-ревью
+- **Веду крупные проекты** — от идеи и архитектурного дизайна до релиза и эксплуатации в проде
+- **Провожу технические собеседования** в компании — Junior → Senior, направления backend / mobile / AI, калибровка грейдов и найм
+- **Помогаю соседним модулям и командам** — консультирую по архитектуре, интеграциям, перформансу и инфраструктуре, разбираю сложные инциденты
+- **Менторю** — code review как инструмент обучения, tech talks, внутренние воркшопы и knowledge sharing
+- **Держу баланс** между менеджментом и инженерией — продолжаю активно разрабатывать сам, чтобы не терять контекст и глубину
 
 ---
 
-## 🎓 Образование
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Образование
 
-> 🎓 **Высшее образование по направлению «Искусственный интеллект»** — машинное обучение, глубокие нейронные сети, NLP, компьютерное зрение, математическая статистика и методы оптимизации.
+> **Высшее образование по направлению «Искусственный интеллект»** — машинное обучение, глубокие нейронные сети, NLP, компьютерное зрение, математическая статистика и методы оптимизации.
 >
 > Это фундамент, на котором строю продакшн AI-системы: не «подключить готовое API», а понимать, что происходит внутри модели — как её обучать, дообучать, оценивать и выкатывать под нагрузкой.
 
 ---
 
-## 🛠️ Технологический стек
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Технологический стек
 
 <div align="center">
 
@@ -108,24 +108,24 @@ motto:      "Архитектура — это решения, которые д
 </div>
 
 <details>
-<summary><b>💻 Языки программирования</b></summary>
+<summary><img src="https://api.iconify.design/lucide/code.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Языки программирования</b></summary>
 <br/>
 
 | Язык | Уровень | Где применяю |
 |------|---------|--------------|
-| **Java** (8/11/17/21) | ⭐⭐⭐⭐⭐ | Основной backend, enterprise-системы, высоконагруженные сервисы |
-| **Kotlin** | ⭐⭐⭐⭐⭐ | Backend (Spring/Ktor), **Android**, Kotlin Multiplatform, корутины, DSL |
-| **Go** | ⭐⭐⭐⭐⭐ | Высокопроизводительные микросервисы, инфраструктурные тулзы, K8s-операторы, CLI |
-| **Python** | ⭐⭐⭐⭐ | AI/ML, data-пайплайны, автоматизация, FastAPI / Django |
-| **Swift** | ⭐⭐⭐⭐ | **iOS**-приложения, SwiftUI, UIKit |
-| **TypeScript / JS** | ⭐⭐⭐⭐ | Frontend (React, Angular, Vue), Node-тулинг |
-| **Scala / Groovy / C++** | ⭐⭐⭐ | Big Data, Gradle/Spock, системные и алгоритмические задачи |
-| **SQL / Bash** | ⭐⭐⭐⭐⭐ | Оптимизация запросов, эксплуатация, автоматизация |
+| **Java** (8/11/17/21) | ▰▰▰▰▰ | Основной backend, enterprise-системы, высоконагруженные сервисы |
+| **Kotlin** | ▰▰▰▰▰ | Backend (Spring/Ktor), **Android**, Kotlin Multiplatform, корутины, DSL |
+| **Go** | ▰▰▰▰▰ | Высокопроизводительные микросервисы, инфраструктурные тулзы, K8s-операторы, CLI |
+| **Python** | ▰▰▰▰▱ | AI/ML, data-пайплайны, автоматизация, FastAPI / Django |
+| **Swift** | ▰▰▰▰▱ | **iOS**-приложения, SwiftUI, UIKit |
+| **TypeScript / JS** | ▰▰▰▰▱ | Frontend (React, Angular, Vue), Node-тулинг |
+| **Scala / Groovy / C++** | ▰▰▰▱▱ | Big Data, Gradle/Spock, системные и алгоритмические задачи |
+| **SQL / Bash** | ▰▰▰▰▰ | Оптимизация запросов, эксплуатация, автоматизация |
 
 </details>
 
 <details>
-<summary><b>🐹 Go — отдельным блоком, потому что люблю</b></summary>
+<summary><img src="https://api.iconify.design/lucide/gauge.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Go — отдельным блоком, потому что люблю</b></summary>
 <br/>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -144,7 +144,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>📱 Мобильная разработка — Android и iOS</b></summary>
+<summary><img src="https://api.iconify.design/lucide/smartphone.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Мобильная разработка — Android и iOS</b></summary>
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -157,7 +157,7 @@ motto:      "Архитектура — это решения, которые д
 
 **Пишу мобильные приложения под обе платформы — и нативно, и кроссплатформенно.**
 
-**🤖 Android**
+**Android**
 - **Kotlin** + **Jetpack Compose**, Material 3, навигация, темизация, адаптивные лейауты
 - **Архитектура** — MVVM / MVI, Clean Architecture, модульность по фичам
 - **Jetpack** — ViewModel, Flow/StateFlow, Room, DataStore, WorkManager, Paging 3, Navigation
@@ -166,19 +166,19 @@ motto:      "Архитектура — это решения, которые д
 - **Платформа** — Firebase (Auth, FCM/Push, Crashlytics, Analytics, Remote Config), Play Console, in-app updates
 - **Качество** — JUnit, MockK, Turbine, Espresso, Compose UI tests, R8/ProGuard, оптимизация старта и батареи
 
-**🍏 iOS**
+**iOS**
 - **Swift** + **SwiftUI** (и UIKit там, где это оправдано), Combine и async/await
 - **Архитектура** — MVVM, координаторы, модульность через Swift Package Manager
 - **Данные** — CoreData / SwiftData, Keychain, URLSession, Alamofire
 - **Экосистема** — APNs push, App Store Connect, TestFlight, deep links, биометрия (Face ID / Touch ID)
 - **Качество** — XCTest, XCUITest, профилирование в Instruments
 
-**🔗 Kotlin Multiplatform**
+**Kotlin Multiplatform**
 - Общая бизнес-логика, сетевой слой, модели и валидация для Android + iOS
 - Ktor Client, SQLDelight, kotlinx.coroutines / serialization, Compose Multiplatform
 - Экономия времени команды без потери нативного UX
 
-**🚀 Mobile DevOps**
+**Mobile DevOps**
 - **CI/CD для мобилок** — GitLab CI / GitHub Actions / Bitrise, Fastlane, автосборка и автопубликация
 - Подписи, профили, разделение окружений (dev / stage / prod), feature flags
 - Автоматические выкладки в **Google Play** и **TestFlight**, отчёты о падениях в общий мониторинг
@@ -186,7 +186,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>🤖 AI / ML — разработка и инфраструктура</b></summary>
+<summary><img src="https://api.iconify.design/lucide/brain.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>AI / ML — разработка и инфраструктура</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -198,7 +198,7 @@ motto:      "Архитектура — это решения, которые д
 
 **Разрабатываю AI-продукты и сам поднимаю под них инфраструктуру.**
 
-**🧠 Разработка AI-решений**
+**Разработка AI-решений**
 - **LLM-сервисы** — интеграция и оркестрация моделей, промпт-инжиниринг, structured output, function/tool calling
 - **RAG-системы** — чанкование, эмбеддинги, векторные БД (**pgvector**, Qdrant, Milvus, Weaviate, FAISS), гибридный поиск и re-ranking
 - **AI-агенты** — многошаговые пайплайны, инструменты, память, guardrails, контроль качества и стоимости
@@ -206,7 +206,7 @@ motto:      "Архитектура — это решения, которые д
 - **Fine-tuning** — LoRA / QLoRA, PEFT, дистилляция, квантизация (GPTQ / AWQ / GGUF), подготовка датасетов
 - **Оценка качества** — офлайн-метрики, LLM-as-a-judge, A/B-тесты, регрессионные наборы, контроль галлюцинаций
 
-**🏗️ AI-инфраструктура (поднимаю с нуля)**
+**AI-инфраструктура (поднимаю с нуля)**
 - **Inference-платформа** — vLLM, TGI, Triton Inference Server, Ray Serve, ONNX Runtime, батчинг и стриминг ответов
 - **GPU в Kubernetes** — NVIDIA GPU Operator, device plugin, MIG, отдельные node pools, квоты, приоритеты, автоскейлинг под нагрузку
 - **Оркестрация обучения** — Kubeflow, Ray, Airflow / Dagster, распределённое обучение, spot-инстансы для экономии
@@ -217,7 +217,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>☸️ DevOps, Kubernetes и CI/CD</b></summary>
+<summary><img src="https://api.iconify.design/lucide/container.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>DevOps, Kubernetes и CI/CD</b></summary>
 <br/>
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -228,7 +228,7 @@ motto:      "Архитектура — это решения, которые д
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**☸️ Kubernetes**
+**Kubernetes**
 - Проектирование и эксплуатация кластеров: **on-prem**, **OpenShift**, managed (**EKS / GKE / AKS**)
 - **Helm**-чарты и **Kustomize** — единый стандарт деплоя для всех сервисов
 - **Operators & CRD** — собственные контроллеры на Go под доменные задачи
@@ -237,7 +237,7 @@ motto:      "Архитектура — это решения, которые д
 - **Надёжность** — PDB, affinity / anti-affinity, health-пробы, graceful shutdown, chaos-эксперименты
 - **Секреты и политики** — Vault, External Secrets, RBAC, NetworkPolicy, Pod Security, OPA / Kyverno
 
-**🔄 CI/CD (пишу и поддерживаю сам)**
+**CI/CD (пишу и поддерживаю сам)**
 - Пайплайны на **GitLab CI**, **GitHub Actions**, **Jenkins**, **TeamCity** — от коммита до прода
 - Стадии: линтеры → unit → интеграционные (**TestContainers**) → сборка образа → скан безопасности → деплой → smoke
 - **GitOps** через **ArgoCD / Flux** — состояние окружений в git, автосинк и автооткат
@@ -245,7 +245,7 @@ motto:      "Архитектура — это решения, которые д
 - **Безопасность пайплайна** — Trivy, SonarQube, dependency-check, подпись образов, SBOM
 - **Ускорение сборок** — кэш зависимостей, параллельные джобы, remote build cache, матрицы сборок
 
-**🧱 IaC и Platform Engineering**
+**IaC и Platform Engineering**
 - **Terraform** + **Ansible** — инфраструктура и конфигурация как код, переиспользуемые модули
 - **Внутренняя платформа для разработчиков** — шаблоны сервисов, self-service окружения, golden path
 - **Наблюдаемость** — Prometheus, Grafana, Loki, ELK, Jaeger / Tempo, OpenTelemetry, SLO и алерты по симптомам
@@ -253,7 +253,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>🌱 Backend, фреймворки и архитектура</b></summary>
+<summary><img src="https://api.iconify.design/lucide/server.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Backend, фреймворки и архитектура</b></summary>
 <br/>
 
 **Spring (экспертный уровень):** Boot, Security (JWT / OAuth2 / RBAC), Data JPA, Data MongoDB, Cloud, WebFlux, Batch, Integration, Cloud Gateway
@@ -271,7 +271,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>🗄️ Базы данных и брокеры сообщений</b></summary>
+<summary><img src="https://api.iconify.design/lucide/database.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Базы данных и брокеры сообщений</b></summary>
 <br/>
 
 **Реляционные:** PostgreSQL (основная, глубокая оптимизация), MySQL / MariaDB, Oracle, MS SQL Server, H2
@@ -283,7 +283,7 @@ motto:      "Архитектура — это решения, которые д
 </details>
 
 <details>
-<summary><b>🧪 Тестирование и качество</b></summary>
+<summary><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Тестирование и качество</b></summary>
 <br/>
 
 JUnit 5 · Mockito · MockK · TestContainers · Spock · AssertJ · WireMock · Cucumber · JMeter · Gatling · k6 · XCTest · Espresso · Compose UI Tests · Pact (contract testing) · SonarQube · мутационное тестирование
@@ -293,7 +293,7 @@ JUnit 5 · Mockito · MockK · TestContainers · Spock · AssertJ · WireMock ·
 </details>
 
 <details>
-<summary><b>🌐 Frontend</b></summary>
+<summary><img src="https://api.iconify.design/lucide/monitor.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Frontend</b></summary>
 <br/>
 
 React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Material) · Vue 3 (Composition API, Pinia) · TypeScript · HTML5 / CSS3 · SCSS · Tailwind / Bootstrap · Vite / Webpack · PWA
@@ -302,13 +302,13 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 
 ---
 
-## 🧩 Внутренние платформы, библиотеки и SDK
+## <img src="https://api.iconify.design/lucide/package.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Внутренние платформы, библиотеки и SDK
 
 > Большая часть моей работы — не только фичи для клиента, но и **инструменты для самой компании**: платформенные сервисы и библиотеки, которые потом переиспользуют все команды.
 > Логика простая: если что-то нужно внедрить больше чем в одном сервисе — это не копипаста, а **своя внутренняя библиотека** с версионированием и документацией.
 
 <details>
-<summary><b>🗺️ Своя картографическая платформа</b> &nbsp;·&nbsp; <i>подняли карту внутри компании</i></summary>
+<summary><img src="https://api.iconify.design/lucide/map.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Своя картографическая платформа</b> &nbsp;·&nbsp; <i>подняли карту внутри компании</i></summary>
 <br/>
 
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
@@ -330,7 +330,7 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 </details>
 
 <details>
-<summary><b>📡 IoT-платформа: устройства, телеметрия, MQTT</b></summary>
+<summary><img src="https://api.iconify.design/lucide/radio.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>IoT-платформа: устройства, телеметрия, MQTT</b></summary>
 <br/>
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
@@ -350,7 +350,7 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 </details>
 
 <details>
-<summary><b>💳 Приём платежей в приложениях — ЮKassa и Альфа-Банк</b></summary>
+<summary><img src="https://api.iconify.design/lucide/credit-card.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Приём платежей в приложениях — ЮKassa и Альфа-Банк</b></summary>
 <br/>
 
 ![ЮKassa](https://img.shields.io/badge/ЮKassa-8B3FFD?style=flat-square&logo=yandex&logoColor=white)
@@ -370,7 +370,7 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 </details>
 
 <details>
-<summary><b>🔔 Платформа уведомлений</b> &nbsp;·&nbsp; <i>один сервис на всю компанию</i></summary>
+<summary><img src="https://api.iconify.design/lucide/bell.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Платформа уведомлений</b> &nbsp;·&nbsp; <i>один сервис на всю компанию</i></summary>
 <br/>
 
 ![FCM](https://img.shields.io/badge/Push%20FCM%20%2F%20APNs-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -393,7 +393,7 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 </details>
 
 <details>
-<summary><b>🖥️ Система мониторинга и учёта серверов компании (Go)</b></summary>
+<summary><img src="https://api.iconify.design/lucide/server-cog.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Система мониторинга и учёта серверов компании (Go)</b></summary>
 <br/>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -412,7 +412,7 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 </details>
 
 <details>
-<summary><b>📚 Внутренние библиотеки и SDK — Java · Kotlin · Go · Node · Frontend</b></summary>
+<summary><img src="https://api.iconify.design/lucide/library.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Внутренние библиотеки и SDK — Java · Kotlin · Go · Node · Frontend</b></summary>
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -423,22 +423,22 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 
 **Типовая история:** нужно внедрить что-то сразу в нескольких сервисах. Вместо копипасты по репозиториям — делаем **свою внутреннюю библиотеку**, публикуем во внутренний реестр, дальше команды подключают её одной строкой.
 
-**☕ Backend — Java / Kotlin**
+**Backend — Java / Kotlin**
 - Собственные **Spring Boot starters**: авторизация и JWT, аудит, единый формат логирования и трейсинга, обработка ошибок, идемпотентность, работа с Kafka и Outbox
 - Готовые клиенты внутренних сервисов с ретраями, circuit breaker и метриками «из коробки»
 
-**🐹 Backend — Go**
+**Backend — Go**
 - Пакеты: конфигурация, структурированное логирование, HTTP-middleware, gRPC-интерсепторы, OpenTelemetry, health-пробы, graceful shutdown
 - Кодогенерация клиентов из proto / OpenAPI
 
-**🟩 Node.js**
+**Node.js**
 - Внутренние npm-пакеты и **SDK** для интеграции с платформенными сервисами: уведомления, платежи, карта, авторизация
 
-**🎨 Frontend**
+**Frontend**
 - **UI-кит**: общие компоненты, дизайн-токены, темы, формы и валидация — единый стиль во всех продуктах компании
 - Клиентские SDK к внутренним API с типами из OpenAPI, обработкой ошибок и авторизацией
 
-**🔧 Как это живёт**
+**Как это живёт**
 - Внутренний реестр артефактов (Nexus / Artifactory / приватный npm), **семантическое версионирование**, changelog
 - Отдельный CI на публикацию, contract-тесты, документация с примерами, миграционные гайды между мажорными версиями
 
@@ -448,10 +448,10 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 
 ---
 
-## 🔥 Боевые кейсы
+## <img src="https://api.iconify.design/lucide/shield-alert.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Боевые кейсы
 
 <details>
-<summary><b>🔐 Массовый отзыв сертификатов — производство не остановилось</b></summary>
+<summary><img src="https://api.iconify.design/lucide/lock-keyhole.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Массовый отзыв сертификатов — производство не остановилось</b></summary>
 <br/>
 
 **Ситуация.** В компании внезапно **отозвали сертификаты**. Под ударом оказались сервисы, интеграции и оборудование на производстве — а любой простой здесь означает остановку производственной линии. Времени на «спокойно спланировать» не было.
@@ -473,10 +473,10 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 
 ---
 
-## 💼 Ключевые проекты
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Ключевые проекты
 
 <details>
-<summary><b>🏢 Страховая компания ВСК — автоматизированная система найма</b> &nbsp;·&nbsp; <i>Senior Fullstack / Tech Lead</i></summary>
+<summary><img src="https://api.iconify.design/lucide/building-2.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Страховая компания ВСК — автоматизированная система найма</b> &nbsp;·&nbsp; <i>Senior Fullstack / Tech Lead</i></summary>
 <br/>
 
 Микросервисная система автоматизации найма — **1000+ заявок в день**.
@@ -486,14 +486,14 @@ React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Mat
 - **Frontend:** React SPA и Angular админ-панель
 - **Инфраструктура:** OpenShift с автоскейлингом, Prometheus + Grafana, ELK, CI/CD на GitLab CI
 
-**Результаты:** ⏱️ время обработки заявок **−70%** · 📈 пропускная способность **×5** · ✅ uptime **99.9%**
+**Результаты:** время обработки заявок **−70%** · пропускная способность **×5** · uptime **99.9%**
 
 `Java` `Spring Boot` `Keycloak` `gRPC` `Kafka` `React` `Angular` `PostgreSQL` `Minio` `OpenShift` `Prometheus` `Grafana` `ELK`
 
 </details>
 
 <details>
-<summary><b>⚡ «Синхронизатор» — система мониторинга выполнения работ</b> &nbsp;·&nbsp; <i>Tech Lead / Архитектор</i></summary>
+<summary><img src="https://api.iconify.design/lucide/workflow.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>«Синхронизатор» — система мониторинга выполнения работ</b> &nbsp;·&nbsp; <i>Tech Lead / Архитектор</i></summary>
 <br/>
 
 Enterprise-система планирования и мониторинга работ с расчётом критического пути по методу **PERT**.
@@ -503,14 +503,14 @@ Enterprise-система планирования и мониторинга р�
 - **Real-time:** WebSocket-обновления UI, NATS между сервисами, Redis-кэш
 - **Frontend:** React + TypeScript, живые дашборды, PWA
 
-**Результаты:** ⏱️ планирование быстрее на **80%** · 🎯 точность оценок **+60%** · 🏢 внедрено в **3 департаментах**
+**Результаты:** планирование быстрее на **80%** · точность оценок **+60%** · внедрено в **3 департаментах**
 
 `Kotlin` `Spring Boot` `PostgreSQL` `Flyway` `Apache POI` `Spring Batch` `Camunda` `NATS` `Redis` `React` `TypeScript` `WebSocket`
 
 </details>
 
 <details>
-<summary><b>🚚 Транспортная компания «Карго» — модернизация legacy-системы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<summary><img src="https://api.iconify.design/lucide/truck.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Транспортная компания «Карго» — модернизация legacy-системы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
 <br/>
 
 - Миграция бизнес-логики с React-фронта на Spring Boot backend
@@ -523,7 +523,7 @@ Enterprise-система планирования и мониторинга р�
 </details>
 
 <details>
-<summary><b>👕 Lacoste — платформа управления товарами</b> &nbsp;·&nbsp; <i>Backend</i></summary>
+<summary><img src="https://api.iconify.design/lucide/shirt.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Lacoste — платформа управления товарами</b> &nbsp;·&nbsp; <i>Backend</i></summary>
 <br/>
 
 - Webhook-архитектура синхронизации с 1С вместо polling
@@ -537,7 +537,7 @@ Enterprise-система планирования и мониторинга р�
 </details>
 
 <details>
-<summary><b>💼 Платформа поиска работы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<summary><img src="https://api.iconify.design/lucide/search.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Платформа поиска работы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
 <br/>
 
 - Многоуровневая аутентификация: JWT + OAuth2 (Google, LinkedIn), 2FA, RBAC, rate limiting
@@ -550,7 +550,7 @@ Enterprise-система планирования и мониторинга р�
 </details>
 
 <details>
-<summary><b>🔌 Контроль кабельных систем на производстве</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<summary><img src="https://api.iconify.design/lucide/cable.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Контроль кабельных систем на производстве</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
 <br/>
 
 - Алгоритм автоматической генерации уникальной маркировки кабелей
@@ -562,7 +562,7 @@ Enterprise-система планирования и мониторинга р�
 </details>
 
 <details>
-<summary><b>⚡ Мониторинг PDU-детекторов</b> &nbsp;·&nbsp; <i>DevOps / Backend</i></summary>
+<summary><img src="https://api.iconify.design/lucide/plug-zap.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Мониторинг PDU-детекторов</b> &nbsp;·&nbsp; <i>DevOps / Backend</i></summary>
 <br/>
 
 - Развёртывание Zabbix в HA-конфигурации, SNMP-мониторинг PDU с кастомными метриками
@@ -574,7 +574,7 @@ Enterprise-система планирования и мониторинга р�
 </details>
 
 <details>
-<summary><b>🤖 Telegram-бот для Cloud Com (хакатон ОЭЗ)</b> &nbsp;·&nbsp; <i>Backend</i></summary>
+<summary><img src="https://api.iconify.design/lucide/bot.svg?color=%232f81f7&width=18" width="18" height="18" alt="" />&nbsp; <b>Telegram-бот для Cloud Com (хакатон ОЭЗ)</b> &nbsp;·&nbsp; <i>Backend</i></summary>
 <br/>
 
 Многофункциональный бот за **48 часов**: регистрация с верификацией, иерархия ролей и админ-панель, игровая валютная система с транзакциями, rich-media контент.
@@ -585,7 +585,7 @@ Enterprise-система планирования и мониторинга р�
 
 ---
 
-## 📊 GitHub статистика
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> GitHub статистика
 
 <div align="center">
 
@@ -601,16 +601,16 @@ Enterprise-система планирования и мониторинга р�
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" width="98%" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" />
+ <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" width="98%" />
 </picture>
 
 </div>
 
 ---
 
-## 🧠 Soft skills
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Soft skills
 
 <table>
 <tr>
@@ -639,7 +639,7 @@ Enterprise-система планирования и мониторинга р�
 
 ---
 
-## 🚀 Куда расту дальше
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Куда расту дальше
 
 ```mermaid
 graph LR
@@ -654,7 +654,7 @@ graph LR
 
 ---
 
-## 📫 Связаться со мной
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%232f81f7&width=24" width="24" height="24" alt="" /> Связаться со мной
 
 <div align="center">
 

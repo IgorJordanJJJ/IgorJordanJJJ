@@ -1,449 +1,679 @@
-# 👋 Привет! Меня зовут Игорь!
+<div align="center">
 
-### 🧑‍💻 Обо мне
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Igor%20Jordan&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Tech%20Lead%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%20AI%20%26%20Platform%20Engineer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 
-Я **Senior  Java/Kotlin разработчик** с коммерческим опытом 4+ лет, который страстно увлечен созданием качественных и масштабируемых приложений. Специализируюсь на **backend разработке** с глубокими знаниями **Spring экосистемы**, **микросервисной архитектуры** и **распределенных систем**, но также имею серьезный опыт **fullstack разработки** с современными frontend технологиями.
+<!-- ─────────────  ПЕРЕКЛЮЧАТЕЛЬ ЯЗЫКА  ───────────── -->
+[![Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-36BCF7?style=for-the-badge&labelColor=0f2027)](https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.md)
+[![English](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-2c3440?style=for-the-badge&labelColor=0f2027)](https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.en.md)
 
-На многих проектах выступаю в роли **тимлида**, координируя работу команды, проводя code review и помогая junior разработчикам расти профессионально. Обожаю решать сложные архитектурные задачи, внедрять новые технологии и оптимизировать производительность систем.
+<sub><i>Вы читаете русскую версию · <a href="https://github.com/IgorJordanJJJ/IgorJordanJJJ/blob/main/README.en.md">Switch to English →</a></i></sub>
 
-Имею богатый опыт работы в различных доменах: **финансы и страхование**, **логистика и транспорт**, **e-commerce**, **промышленная автоматизация**, **HR-системы**. Всегда стремлюсь к написанию чистого, тестируемого кода и созданию архитектурных решений, которые легко масштабировать и поддерживать.
+<br/>
 
-### 🛠️ Технический стек
+<a href="https://github.com/IgorJordanJJJ">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Tech+Lead+%2F+Team+Lead+%E2%80%94+%D0%B2%D0%B5%D0%B4%D1%83+%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B;Backend%3A+Java+%7C+Kotlin+%7C+Go+%7C+Python;Mobile%3A+Android+(Kotlin)+%2B+iOS+(Swift%2FSwiftUI);AI%2FML+Engineering+%2B+GPU-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0;Kubernetes+%7C+CI%2FCD+%7C+Platform+Engineering;%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D1%83+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" alt="Typing SVG" />
+</a>
 
-#### **🚀 Основные языки программирования**
-- **Java** (8, 11, 17, 21) - основной язык, глубокое знание экосистемы
-- **Kotlin** - современная разработка, корутины, DSL, мультиплатформа
-- **Python** - автоматизация, скрипты, Django для веб-приложений
-- **Go** - микросервисы, высокая производительность
-- **JavaScript/TypeScript** - fullstack разработка, современный ES6+
-- **Scala** - функциональное программирование, Big Data
-- **Groovy** - скрипты, Gradle конфигурация, тестирование (Spock)
-- **C++** - системное программирование, алгоритмы
+<br/>
 
-#### **🌟 Java/Kotlin экосистема и фреймворки**
-**Spring Framework (экспертный уровень):**
-- **Spring Boot** - создание production-ready приложений
-- **Spring Security** - аутентификация, авторизация (JWT, OAuth2, RBAC)
-- **Spring Data JPA** - работа с реляционными БД
-- **Spring Data MongoDB** - работа с NoSQL
-- **Spring Cloud** - микросервисы, service discovery, configuration
-- **Spring WebFlux** - реактивное программирование
-- **Spring Batch** - пакетная обработка больших объемов данных
-- **Spring Integration** - enterprise integration patterns
-- **Spring Cloud Gateway** - API gateway решения
+[![Telegram](https://img.shields.io/badge/Telegram-@jordanigor-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jordanigor)
+[![Portfolio](https://img.shields.io/badge/Портфолио-Открыть-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://website-business-card-72f2e.web.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-IgorJordanJJJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorJordanJJJ)
+![Profile views](https://komarev.com/ghpvc/?username=IgorJordanJJJ&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-**Дополнительные JVM фреймворки:**
-- **Quarkus** - cloud-native, GraalVM оптимизация
-- **Micronaut** - быстрый старт, низкое потребление памяти
-- **Vert.x** - event-driven приложения, высокая производительность
-- **Dropwizard** - REST сервисы, метрики
-- **Play Framework** - веб-приложения на Scala
-- **Akka** - actor model, распределенные системы
-- **Ktor** - асинхронный веб-фреймворк на Kotlin
-
-#### **🗄️ Базы данных (широкий спектр)**
-**Реляционные БД:**
-- **PostgreSQL** - основная БД, оптимизация запросов, индексы
-- **MySQL/MariaDB** - веб-приложения, репликация
-- **Oracle Database** - корпоративные системы
-- **Microsoft SQL Server** - интеграция с .NET экосистемой
-- **H2** - тестирование, embedded решения
-
-**NoSQL базы данных:**
-- **MongoDB** - документо-ориентированная БД
-- **Redis** - кэширование, сессии, pub/sub
-- **Apache Cassandra** - распределенная БД для больших данных
-- **Elasticsearch** - полнотекстовый поиск, аналитика
-- **InfluxDB** - временные ряды, мониторинг
-- **Neo4j** - графовые базы данных
-
-**Инструменты для БД:**
-- **Liquibase/Flyway** - версионирование схемы БД
-- **Hibernate** - ORM, оптимизация N+1 запросов
-- **MyBatis** - SQL маппер
-- **JOOQ** - type-safe SQL
-
-#### **📨 Message Brokers и Event Streaming**
-- **Apache Kafka** - event streaming, высокая пропускная способность
-- **RabbitMQ** - надежная доставка сообщений, AMQP
-- **Apache ActiveMQ** - JMS, enterprise messaging
-- **NATS** - легковесный, высокая производительность
-- **Redis Pub/Sub** - простые уведомления
-- **Apache Pulsar** - cloud-native messaging
-- **AWS SQS/SNS** - облачные очереди и уведомления
-- **Google Cloud Pub/Sub** - serverless messaging
-
-#### **🌐 Frontend технологии**
-- **React** - хуки, Context API, Redux/Zustand, Next.js
-- **Angular** - Angular 12+, RxJS, NgRx, Material Design
-- **Vue.js** - Vue 3, Composition API, Pinia
-- **TypeScript** - продвинутые типы, декораторы
-- **HTML5/CSS3** - семантическая разметка, Grid, Flexbox
-- **SCSS/Sass** - препроцессоры CSS
-- **Bootstrap/Tailwind CSS** - UI фреймворки
-- **Webpack/Vite** - сборщики модулей
-
-#### **☁️ DevOps и инфраструктура**
-**Контейнеризация и оркестрация:**
-- **Docker** - контейнеризация приложений, multi-stage builds
-- **Kubernetes** - оркестрация, деплой, scaling
-- **OpenShift** - enterprise Kubernetes платформа
-- **Docker Compose** - локальная разработка
-- **Helm** - управление Kubernetes приложениями
-
-**CI/CD и автоматизация:**
-- **GitLab CI** - пайплайны, автотесты, деплой
-- **Jenkins** - классические CI/CD пайплайны
-- **GitHub Actions** - автоматизация workflow
-- **TeamCity** - enterprise CI/CD
-- **ArgoCD** - GitOps деплой в Kubernetes
-
-**Облачные платформы:**
-- **AWS** - EC2, RDS, S3, Lambda, ECS
-- **Google Cloud Platform** - GKE, Cloud SQL, Cloud Functions
-- **Microsoft Azure** - AKS, Azure SQL, Azure Functions
-
-**Infrastructure as Code:**
-- **Terraform** - управление инфраструктурой
-- **Ansible** - конфигурационное управление
-- **Kubernetes YAML** - декларативные конфигурации
-
-#### **📊 Мониторинг и наблюдаемость**
-**Метрики и мониторинг:**
-- **Prometheus** - сбор метрик, alerting
-- **Grafana** - визуализация метрик, дашборды
-- **Zabbix** - системный мониторинг
-- **Nagios** - мониторинг инфраструктуры
-- **New Relic** - APM, производительность приложений
-- **Datadog** - облачный мониторинг
-
-**Логирование:**
-- **ELK Stack** (Elasticsearch, Logstash, Kibana) - централизованное логирование
-- **Fluentd** - сбор и обработка логов
-- **Graylog** - управление логами
-- **Splunk** - анализ логов и безопасность
-
-**Трассировка:**
-- **Jaeger** - distributed tracing
-- **Zipkin** - мониторинг микросервисов
-- **OpenTelemetry** - стандарт наблюдаемости
-
-#### **🧪 Тестирование**
-- **JUnit 5** - unit тестирование, параметризованные тесты
-- **Mockito** - мокирование зависимостей
-- **TestContainers** - интеграционное тестирование с реальными БД
-- **Spock Framework** - BDD тестирование на Groovy
-- **AssertJ** - fluent assertions
-- **WireMock** - мокирование HTTP сервисов
-- **Cucumber** - BDD сценарии
-- **JMeter** - нагрузочное тестирование
-- **Gatling** - performance тестирование
-
-#### **🔧 Инструменты разработки**
-- **Maven/Gradle** - сборка проектов, управление зависимостями
-- **Git** - версионирование, GitFlow, conventional commits
-- **IntelliJ IDEA** - основная IDE
-- **VS Code** - frontend разработка
-- **Postman/Insomnia** - тестирование API
-- **Swagger/OpenAPI** - документация API
-- **SonarQube** - анализ качества кода
-
-### 💼 Ключевые проекты и достижения
-
-#### 🏢 **Страховая компания ВСК - Автоматизированная система найма сотрудников**
-*Роль: Senior Fullstack разработчик и Tech Lead*
-
-Спроектировал и разработал **комплексную микросервисную систему** для автоматизации процесса найма новых сотрудников в крупной страховой компании с обработкой 1000+ заявок в день.
-
-**Архитектурные решения:**
-- Создал **микросервисную архитектуру** из 8 сервисов с clear separation of concerns
-- Реализовал **Event-Driven Architecture** с Apache Kafka для асинхронного взаимодействия
-- Спроектировал **API Gateway** с rate limiting и circuit breaker паттернами
-- Внедрил **CQRS pattern** для разделения операций чтения и записи
-
-**Техническая реализация:**
-- Разработал **Spring Boot микросервисы** с интеграцией PostgreSQL и Minio (file storage)
-- Настроил **межсервисную авторизацию** через Keycloak с JWT токенами
-- Реализовал **gRPC интеграцию** с внешним HR-сервисом e-staff для обмена данными
-- Построил **event streaming** с Apache Kafka для real-time уведомлений
-- Создал **React SPA** и **Angular админ-панель** с responsive дизайном
-
-**DevOps и мониторинг:**
-- Настроил развертывание в **OpenShift** с автоматическим scaling
-- Внедрил **Prometheus + Grafana** для мониторинга производительности
-- Настроил **ELK Stack** для централизованного логирования
-- Реализовал **CI/CD пайплайн** с GitLab CI с автоматическими тестами
-
-**Результаты:**
-- Сократил время обработки заявок на **70%**
-- Увеличил пропускную способность системы в **5 раз**
-- Достиг **99.9%** uptime в продакшене
-
-**Технологии:** Java, Spring Boot, Spring Security, Keycloak, gRPC, Apache Kafka, React, Angular, PostgreSQL, Minio, OpenShift, Prometheus, Grafana, ELK Stack
-
-#### ⚡ **Проект "Синхронизатор" - Система мониторинга выполнения работ**
-*Роль: Tech Lead и архитектор*
-
-Спроектировал и разработал **enterprise-grade систему** для составления, ведения и мониторинга выполнения работ с использованием метода PERT для оптимального планирования ресурсов.
-
-**Архитектурные инновации:**
-- Построил **многомодульное приложение** на Spring Boot + Kotlin с модульной архитектурой
-- Реализовал **Domain-Driven Design** с четким разделением bounded contexts
-- Внедрил **Clean Architecture** с dependency inversion
-- Спроектировал **event sourcing** для audit trail всех изменений
-
-**Сложные технические задачи:**
-- Реализовал **алгоритм PERT** для расчета критического пути проектов
-- Интегрировал **Apache POI** для динамической генерации Excel отчетов
-- Настроил **Spring Batch** для обработки больших объемов данных (100K+ записей)
-- Внедрил **Camunda BPMN** для автоматизации сложных бизнес-процессов
-- Интегрировал **Jira REST API** для двусторонней синхронизации задач
-
-**Real-time обработка:**
-- Реализовал **WebSocket соединения** для live обновлений UI
-- Использовал **NATS** для быстрого обмена сообщениями между сервисами
-- Настроил **Redis** для кэширования часто используемых данных
-
-**Frontend и UX:**
-- Создал **React SPA** с TypeScript и современными хуками
-- Реализовал **real-time дашборды** с живой визуализацией данных
-- Внедрил **Progressive Web App** функционал для мобильных устройств
-
-**Результаты:**
-- Автоматизировал планирование проектов, сократив время на **80%**
-- Повысил точность оценок временных затрат на **60%**
-- Внедрил систему в **3 департаментах** компании
-
-**Технологии:** Kotlin, Spring Boot, Gradle, PostgreSQL, Flyway, Apache POI, Spring Batch, Camunda, NATS, Redis, React, TypeScript, WebSocket
-
-#### 🚚 **Система транспортной компании "Карго"**
-*Роль: Fullstack разработчик*
-
-Модернизировал **legacy монолитное приложение**, мигрировав критическую бизнес-логику на современную архитектуру и значительно улучшив производительность.
-
-**Рефакторинг и миграция:**
-- Мигрировал бизнес-логику с **React frontend на Spring Boot backend**
-- Разбил монолит на **4 микросервиса** с четкими границами
-- Оптимизировал **SQL запросы**, сократив время отклика на **40%**
-- Внедрил **кэширование** с Redis для часто запрашиваемых данных
-
-**Улучшения производительности:**
-- Реализовал **lazy loading** для больших списков данных
-- Оптимизировал **React компоненты** с useMemo и useCallback
-- Внедрил **code splitting** для уменьшения bundle size
-- Настроил **CDN** для статических ресурсов
-
-**Технологии:** Spring Boot, React, TypeScript, PostgreSQL, Redis, Angular, Docker
-
-#### 👕 **Система управления товарами магазина Lacoste**
-*Роль: Backend разработчик*
-
-Разработал **интеграционную платформу** для управления товарами с множественными внешними системами и real-time синхронизацией.
-
-**Системная интеграция:**
-- Создал **webhook-архитектуру** для синхронизации с 1С вместо polling
-- Интегрировал **платежную систему AlfaPOS** с PCI DSS compliance
-- Подключил **Mindbox API** для CRM, маркетинговых кампаний и программ лояльности
-- Реализовал **retry механизмы** с exponential backoff для внешних API
-
-**Мониторинг и наблюдаемость:**
-- Внедрил **structured logging** с отправкой в Elasticsearch
-- Создал **подробную Swagger документацию** с примерами запросов
-- Настроил **Grafana дашборды** для мониторинга интеграций
-- Реализовал **health checks** для всех внешних зависимостей
-
-**Производительность:**
-- Использовал **Apache Kafka** для асинхронной обработки событий
-- Внедрил **database connection pooling** для оптимизации ресурсов
-- Реализовал **bulk operations** для массового обновления товаров
-
-**Технологии:** Spring Boot, Java, PostgreSQL, Elasticsearch, Apache Kafka, Swagger, Grafana, Redis
-
-#### 💼 **Платформа поиска работы**
-*Роль: Fullstack разработчик*
-
-Создал **полнофункциональную job-платформу** с современной архитектурой и удобным пользовательским интерфейсом.
-
-**Безопасность и аутентификация:**
-- Реализовал **многоуровневую аутентификацию** с JWT и OAuth2 (Google, LinkedIn)
-- Внедрил **RBAC систему** с гибким управлением правами
-- Настроил **rate limiting** для защиты от злоупотреблений
-- Реализовал **secure password policies** и двухфакторную аутентификацию
-
-**Производительность и масштабируемость:**
-- Настроил **Redis кэширование** для пользовательских сессий и поиска
-- Реализовал **полнотекстовый поиск** с Elasticsearch
-- Внедрил **pagination** с cursor-based подходом
-- Оптимизировал **database queries** с proper indexing
-
-**Платежная интеграция:**
-- Интегрировал **InvoiceBox** для безопасной обработки платежей
-- Реализовал **subscription management** с автоматическим продлением
-- Настроил **webhook обработку** для платежных уведомлений
-
-**Современный UI/UX:**
-- Создал **responsive Angular SPA** с Material Design
-- Реализовал **real-time notifications** с WebSocket
-- Внедрил **PWA функционал** для мобильного опыта
-- Добавил **dark/light theme** переключение
-
-**Технологии:** Java, Spring Boot, Spring Security, Redis, Elasticsearch, Angular, TypeScript, SCSS, InvoiceBox, WebSocket
-
-#### 🔌 **WEB приложение для контроля кабельных систем**
-*Роль: Fullstack разработчик*
-
-Разработал **специализированную систему** для промышленного предприятия по управлению и маркировке кабельных систем.
-
-**Автоматизация процессов:**
-- Создал **алгоритм автоматической генерации** уникальной маркировки кабелей
-- Разработал **ETL скрипт** для миграции данных из Excel с валидацией
-- Реализовал **поиск по множественным критериям** с фильтрацией
-- Внедрил **audit trail** для отслеживания всех изменений
-
-**Мобильная адаптация:**
-- Создал **responsive дизайн** для работы на планшетах
-- Реализовал **offline-first подход** с синхронизацией при подключении
-- Добавил **QR-код генерацию** для физической маркировки
-
-**Технологии:** Python, Django, MySQL, Linux, Nginx, uWSGI, JavaScript
-
-#### ⚡ **Система мониторинга PDU детекторов**
-*Роль: DevOps и Backend разработчик*
-
-Построил **комплексную систему мониторинга** для критически важного оборудования с real-time алертингом.
-
-**Мониторинг инфраструктуры:**
-- Развернул и настроил **Zabbix server** с высокой доступностью
-- Реализовал **SNMP мониторинг** PDU устройств с custom метриками
-- Настроил **Grafana дашборды** с real-time визуализацией
-- Внедрил **alerting system** с уведомлениями в Telegram и email
-
-**Автоматизация:**
-- Создал **Python скрипты** для автоматического discovery устройств
-- Реализовал **automated failover** при недоступности primary систем
-- Настроил **backup strategies** для критических данных мониторинга
-
-**Технологии:** Python, SNMP, Zabbix, Django, PostgreSQL, Grafana, Linux, Nginx
-
-#### 🤖 **Чат-бот для компании Cloud Com (Хакатон ОЭЗ)**
-*Роль: Backend разработчик*
-
-Разработал **многофункционального Telegram бота** за 48 часов хакатона с игровыми элементами и административной панелью.
-
-**Функциональность бота:**
-- Реализовал **регистрационную систему** с верификацией пользователей
-- Создал **иерархическую систему ролей** с админ-панелью
-- Внедрил **игровую валютную систему** с транзакциями
-- Добавил **интерактивные команды** и rich-media контент
-
-**Архитектура:**
-- Использовал **Spring Boot** с webhook обработкой
-- Настроил **PostgreSQL** для хранения пользовательских данных
-- Реализовал **RESTful API** для административной панели
-- Внедрил **logging system** с Log4j для отладки
-
-**Технологии:** Java, Spring Boot, PostgreSQL, Log4j, Maven, Telegram Bot API, REST API
-
-### 🎯 Архитектурные навыки и паттерны
-
-**Микросервисная архитектура:**
-- **Service Decomposition** - разбиение монолитов на микросервисы
-- **API Gateway Pattern** - централизованная точка входа
-- **Circuit Breaker** - отказоустойчивость распределенных систем
-- **Saga Pattern** - управление распределенными транзакциями
-- **Event Sourcing** - audit trail и восстановление состояния
-
-**Архитектурные принципы:**
-- **Domain-Driven Design (DDD)** - моделирование предметной области
-- **Clean Architecture** - независимость от фреймворков и UI
-- **SOLID принципы** - поддерживаемый и расширяемый код
-- **CQRS** - разделение операций чтения и записи
-- **Hexagonal Architecture** - изоляция бизнес-логики
-
-**Performance и Scalability:**
-- **Caching Strategies** - Redis, in-memory, distributed caching
-- **Database Optimization** - индексы, партиционирование, query optimization
-- **Load Balancing** - распределение нагрузки между сервисами
-- **Horizontal Scaling** - автоматическое масштабирование под нагрузкой
-
-### 🗣️ Soft Skills и лидерские качества
-
-**Командное лидерство:**
-- **Руководство командами** 5-8 разработчиков в роли Tech Lead
-- **Менторство** junior и middle разработчиков с планами развития
-- **Code Review** - установка стандартов качества и best practices
-- **Техническое планирование** - декомпозиция задач и оценка сложности
-- **Принятие архитектурных решений** с учетом business requirements
-
-**Коммуникационные навыки:**
-- **Презентация технических решений** для business stakeholders
-- **Документирование архитектуры** и API для команды
-- **Проведение tech talks** и knowledge sharing сессий
-- **Кросс-функциональное взаимодействие** с Product, QA, DevOps командами
-
-**Личные качества:**
-- **Критическое мышление** - анализ требований и альтернативных решений
-- **Обучаемость** - быстрое освоение новых технологий и паттернов
-- **Проактивность** - предложение улучшений и оптимизаций
-- **Стрессоустойчивость** - работа в условиях tight deadlines
-- **Английский язык** - Upper-Intermediate (B2), техническая документация
-
-### 📚 В чем совершенствуюсь постоянно:
-
-**Активно прокачиваю:**
-- **Kotlin Multiplatform Mobile** - кроссплатформенная мобильная разработка
-- **Spring Native/GraalVM** - компиляция в native образы для cloud
-- **Apache Pulsar** - альтернатива Kafka для specific use cases
-- **Istio Service Mesh** - продвинутое управление микросервисами в K8s
-
-**Глубоко погружаюсь в:**
-- **System Design** - паттерны высоконагруженных распределенных систем
-- **Machine Learning** - интеграция ML в enterprise приложения
-- **Reactive Streams** - полностью асинхронные и reactive архитектуры
-- **Cloud Architecture** - AWS/GCP certifications для cloud-native разработки
-
-### 🏆 Достижения
-
-**Профессиональные достижения:**
-- **Архитектурные решения** - спроектировал системы для 10K+ concurrent users
-- **Performance optimization** - достиг улучшения производительности на 70%
-- **Code quality** - снизил количество production bugs на 65% через лучшие практики
-
-### 🎯 Мои цели и мотивация
-
-**Профессиональные амбиции:**
-Стремлюсь к позиции **Senior Java/Kotlin разработчика** и в перспективе **Software Architect**. Хочу углубить экспертизу в области **высоконагруженных распределенных систем**, **event-driven архитектур** и **cloud-native разработки**.
-
-**Что меня вдохновляет:**
-- Решение **сложных технических challenges** с элегантными архитектурными решениями
-- **Масштабирование систем** для обработки миллионов запросов
-- **Оптимизация производительности** и достижение высоких SLA
-- **Менторство команды** и создание культуры качественного кода
-- **Внедрение новых технологий** для решения business задач
-
-**Интересные направления:**
-- **Event-Driven Architecture** и reactive systems
-- **Kubernetes-native applications** и cloud patterns
-- **Machine Learning Integration** в enterprise системы
-- **Platform Engineering** и developer experience
-- **Open Source contributions** в Java/Kotlin экосистему
-
-### 📫 Связаться со мной
-
-- 🐙 **GitHub профиль:** [github.com/IgorJordanJJJ](https://github.com/IgorJordanJJJ)
-- 💬 **Написать в Telegram:** [@jordanigor](https://t.me/jordanigor)
-- 🌐 **Моё портфолио:** [website-business-card-72f2e.web.app](https://website-business-card-72f2e.web.app/)
+</div>
 
 ---
 
-> *"Качественная архитектура - это не только о том, как код работает сегодня, но и о том, насколько легко его можно будет изменить завтра. Стремлюсь создавать системы, которые растут вместе с бизнесом и радуют разработчиков, которые с ними работают."*
+## 👋 Привет! Меня зовут Игорь
+
+```yaml
+name:       Igor Jordan
+role:       Tech Lead / Team Lead / Solution Architect
+focus:      [ Backend, Mobile (Android + iOS), AI Engineering, Platform & Infra ]
+languages:  [ Java, Kotlin, Go, Python, Swift, TypeScript ]
+education:  Высшее — Искусственный интеллект
+leading:    несколько команд разработки, крупные продуктовые проекты
+built:      [ своя карта, IoT-платформа, платежи, уведомления, внутренние SDK ]
+also:       технические собеседования, менторство, архитектурные ревью
+motto:      "Архитектура — это решения, которые дорого менять. Принимай их осознанно."
+```
+
+**Чем занимаюсь каждый день:**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧭 Руковожу
+Веду **несколько команд** и **крупные проекты**: архитектура, декомпозиция, роадмап, сроки, качество. Отвечаю и за техническую стратегию, и за людей — рост, грейды, 1-на-1.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Строю AI
+Разрабатываю **AI-продукты** и **инфраструктуру под них**: LLM-сервисы, RAG, агенты, inference-кластеры на GPU, MLOps-контур и наблюдаемость моделей.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ И продолжаю писать код
+Не ушёл в «чистый менеджмент»: пишу продакшн-код на **Java / Kotlin / Go**, делаю приложения под **Android и iOS**, строю **CI/CD** и **Kubernetes**-платформу.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💭 Личная философия разработки
+## 🧑‍💼 Лидерство и роль в компании
 
-Верю в принципы **чистого кода** и **эволюционной архитектуры**. Каждая строчка кода должна рассказывать историю бизнес-логики, а каждое архитектурное решение должно быть обоснованным и гибким для будущих изменений.
+<div align="center">
 
-Всегда стараюсь найти баланс между **техническим совершенством** и **business value**, понимая, что лучший код - это тот, который решает реальные проблемы пользователей и приносит пользу компании.
+![Tech Lead](https://img.shields.io/badge/Tech%20Lead-0f172a?style=for-the-badge)
+![Team Lead](https://img.shields.io/badge/Team%20Lead-0f172a?style=for-the-badge)
+![Hands-on](https://img.shields.io/badge/Hands--on%20Engineer-0f172a?style=for-the-badge)
+![Interviewer](https://img.shields.io/badge/Tech%20Interviewer-0f172a?style=for-the-badge)
+![Mentor](https://img.shields.io/badge/Mentor-0f172a?style=for-the-badge)
 
-**#JavaDeveloper #KotlinDeveloper #TechLead #SpringBoot #Microservices #FullStack**
+</div>
+
+- 👥 **Руковожу большим количеством людей** — несколько команд разработки, распределение зон ответственности, планы развития, перформанс-ревью
+- 🏗️ **Веду крупные проекты** — от идеи и архитектурного дизайна до релиза и эксплуатации в проде
+- 🎤 **Провожу технические собеседования** в компании — Junior → Senior, направления backend / mobile / AI, калибровка грейдов и найм
+- 🤝 **Помогаю соседним модулям и командам** — консультирую по архитектуре, интеграциям, перформансу и инфраструктуре, разбираю сложные инциденты
+- 🧑‍🏫 **Менторю** — code review как инструмент обучения, tech talks, внутренние воркшопы и knowledge sharing
+- 🧩 **Держу баланс** между менеджментом и инженерией — продолжаю активно разрабатывать сам, чтобы не терять контекст и глубину
+
+---
+
+## 🎓 Образование
+
+> 🎓 **Высшее образование по направлению «Искусственный интеллект»** — машинное обучение, глубокие нейронные сети, NLP, компьютерное зрение, математическая статистика и методы оптимизации.
+>
+> Это фундамент, на котором строю продакшн AI-системы: не «подключить готовое API», а понимать, что происходит внутри модели — как её обучать, дообучать, оценивать и выкатывать под нагрузкой.
+
+---
+
+## 🛠️ Технологический стек
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,python,swift,typescript,spring,react,angular&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,docker,kubernetes,terraform,ansible,gitlab,githubactions,jenkins,grafana&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,pytorch,tensorflow,linux&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>💻 Языки программирования</b></summary>
+<br/>
+
+| Язык | Уровень | Где применяю |
+|------|---------|--------------|
+| **Java** (8/11/17/21) | ⭐⭐⭐⭐⭐ | Основной backend, enterprise-системы, высоконагруженные сервисы |
+| **Kotlin** | ⭐⭐⭐⭐⭐ | Backend (Spring/Ktor), **Android**, Kotlin Multiplatform, корутины, DSL |
+| **Go** | ⭐⭐⭐⭐⭐ | Высокопроизводительные микросервисы, инфраструктурные тулзы, K8s-операторы, CLI |
+| **Python** | ⭐⭐⭐⭐ | AI/ML, data-пайплайны, автоматизация, FastAPI / Django |
+| **Swift** | ⭐⭐⭐⭐ | **iOS**-приложения, SwiftUI, UIKit |
+| **TypeScript / JS** | ⭐⭐⭐⭐ | Frontend (React, Angular, Vue), Node-тулинг |
+| **Scala / Groovy / C++** | ⭐⭐⭐ | Big Data, Gradle/Spock, системные и алгоритмические задачи |
+| **SQL / Bash** | ⭐⭐⭐⭐⭐ | Оптимизация запросов, эксплуатация, автоматизация |
+
+</details>
+
+<details>
+<summary><b>🐹 Go — отдельным блоком, потому что люблю</b></summary>
+<br/>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+- **Микросервисы на Go** — REST + gRPC, чистая архитектура, graceful shutdown, контексты и таймауты по всей цепочке вызовов
+- **Конкурентность** — goroutines, channels, `sync`, worker pools, backpressure, борьба с data race (`-race`, pprof, trace)
+- **Производительность** — профилирование pprof, escape-анализ, минимизация аллокаций, бенчмарки прямо в CI
+- **Инфраструктурные инструменты** — Kubernetes-операторы и контроллеры (controller-runtime), CLI на cobra/viper, экспортёры метрик Prometheus
+- **Экосистема** — Gin / Echo / Fiber / chi, sqlc, pgx, GORM, клиенты Kafka и NATS, OpenTelemetry
+- **Почему Go** — там, где нужны предсказуемая латентность, маленький footprint и быстрый холодный старт, он честно выигрывает у JVM
+
+</details>
+
+<details>
+<summary><b>📱 Мобильная разработка — Android и iOS</b></summary>
+<br/>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=flat-square&logo=swift&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Пишу мобильные приложения под обе платформы — и нативно, и кроссплатформенно.**
+
+**🤖 Android**
+- **Kotlin** + **Jetpack Compose**, Material 3, навигация, темизация, адаптивные лейауты
+- **Архитектура** — MVVM / MVI, Clean Architecture, модульность по фичам
+- **Jetpack** — ViewModel, Flow/StateFlow, Room, DataStore, WorkManager, Paging 3, Navigation
+- **DI** — Hilt / Dagger / Koin
+- **Сеть и данные** — Retrofit, OkHttp, Ktor Client, kotlinx.serialization, offline-first и синхронизация
+- **Платформа** — Firebase (Auth, FCM/Push, Crashlytics, Analytics, Remote Config), Play Console, in-app updates
+- **Качество** — JUnit, MockK, Turbine, Espresso, Compose UI tests, R8/ProGuard, оптимизация старта и батареи
+
+**🍏 iOS**
+- **Swift** + **SwiftUI** (и UIKit там, где это оправдано), Combine и async/await
+- **Архитектура** — MVVM, координаторы, модульность через Swift Package Manager
+- **Данные** — CoreData / SwiftData, Keychain, URLSession, Alamofire
+- **Экосистема** — APNs push, App Store Connect, TestFlight, deep links, биометрия (Face ID / Touch ID)
+- **Качество** — XCTest, XCUITest, профилирование в Instruments
+
+**🔗 Kotlin Multiplatform**
+- Общая бизнес-логика, сетевой слой, модели и валидация для Android + iOS
+- Ktor Client, SQLDelight, kotlinx.coroutines / serialization, Compose Multiplatform
+- Экономия времени команды без потери нативного UX
+
+**🚀 Mobile DevOps**
+- **CI/CD для мобилок** — GitLab CI / GitHub Actions / Bitrise, Fastlane, автосборка и автопубликация
+- Подписи, профили, разделение окружений (dev / stage / prod), feature flags
+- Автоматические выкладки в **Google Play** и **TestFlight**, отчёты о падениях в общий мониторинг
+
+</details>
+
+<details>
+<summary><b>🤖 AI / ML — разработка и инфраструктура</b></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%20%2F%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Разрабатываю AI-продукты и сам поднимаю под них инфраструктуру.**
+
+**🧠 Разработка AI-решений**
+- **LLM-сервисы** — интеграция и оркестрация моделей, промпт-инжиниринг, structured output, function/tool calling
+- **RAG-системы** — чанкование, эмбеддинги, векторные БД (**pgvector**, Qdrant, Milvus, Weaviate, FAISS), гибридный поиск и re-ranking
+- **AI-агенты** — многошаговые пайплайны, инструменты, память, guardrails, контроль качества и стоимости
+- **Классическое ML** — прогнозирование, классификация, рекомендации, антифрод, NLP и компьютерное зрение
+- **Fine-tuning** — LoRA / QLoRA, PEFT, дистилляция, квантизация (GPTQ / AWQ / GGUF), подготовка датасетов
+- **Оценка качества** — офлайн-метрики, LLM-as-a-judge, A/B-тесты, регрессионные наборы, контроль галлюцинаций
+
+**🏗️ AI-инфраструктура (поднимаю с нуля)**
+- **Inference-платформа** — vLLM, TGI, Triton Inference Server, Ray Serve, ONNX Runtime, батчинг и стриминг ответов
+- **GPU в Kubernetes** — NVIDIA GPU Operator, device plugin, MIG, отдельные node pools, квоты, приоритеты, автоскейлинг под нагрузку
+- **Оркестрация обучения** — Kubeflow, Ray, Airflow / Dagster, распределённое обучение, spot-инстансы для экономии
+- **MLOps-контур** — MLflow / W&B, реестр моделей, версионирование данных (DVC), feature store, воспроизводимость экспериментов
+- **Наблюдаемость AI** — метрики латентности и токенов, трейсинг цепочек, дрейф данных и качества, стоимость на запрос, алертинг
+- **Безопасность и приватность** — self-hosted-модели внутри контура компании, PII-фильтрация, rate limiting, аудит запросов
+
+</details>
+
+<details>
+<summary><b>☸️ DevOps, Kubernetes и CI/CD</b></summary>
+<br/>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**☸️ Kubernetes**
+- Проектирование и эксплуатация кластеров: **on-prem**, **OpenShift**, managed (**EKS / GKE / AKS**)
+- **Helm**-чарты и **Kustomize** — единый стандарт деплоя для всех сервисов
+- **Operators & CRD** — собственные контроллеры на Go под доменные задачи
+- **Автоскейлинг** — HPA / VPA / KEDA / Cluster Autoscaler, requests-limits, QoS-классы
+- **Сеть и трафик** — Ingress NGINX, Istio / Service Mesh, mTLS, canary и blue-green деплои
+- **Надёжность** — PDB, affinity / anti-affinity, health-пробы, graceful shutdown, chaos-эксперименты
+- **Секреты и политики** — Vault, External Secrets, RBAC, NetworkPolicy, Pod Security, OPA / Kyverno
+
+**🔄 CI/CD (пишу и поддерживаю сам)**
+- Пайплайны на **GitLab CI**, **GitHub Actions**, **Jenkins**, **TeamCity** — от коммита до прода
+- Стадии: линтеры → unit → интеграционные (**TestContainers**) → сборка образа → скан безопасности → деплой → smoke
+- **GitOps** через **ArgoCD / Flux** — состояние окружений в git, автосинк и автооткат
+- **Trunk-based / GitFlow**, семантическое версионирование, автогенерация changelog, релизные поезда
+- **Безопасность пайплайна** — Trivy, SonarQube, dependency-check, подпись образов, SBOM
+- **Ускорение сборок** — кэш зависимостей, параллельные джобы, remote build cache, матрицы сборок
+
+**🧱 IaC и Platform Engineering**
+- **Terraform** + **Ansible** — инфраструктура и конфигурация как код, переиспользуемые модули
+- **Внутренняя платформа для разработчиков** — шаблоны сервисов, self-service окружения, golden path
+- **Наблюдаемость** — Prometheus, Grafana, Loki, ELK, Jaeger / Tempo, OpenTelemetry, SLO и алерты по симптомам
+
+</details>
+
+<details>
+<summary><b>🌱 Backend, фреймворки и архитектура</b></summary>
+<br/>
+
+**Spring (экспертный уровень):** Boot, Security (JWT / OAuth2 / RBAC), Data JPA, Data MongoDB, Cloud, WebFlux, Batch, Integration, Cloud Gateway
+**Другие JVM-стеки:** Quarkus, Micronaut, Vert.x, Ktor, Akka, Dropwizard, Play
+**Go-стек:** Gin, Echo, Fiber, chi, gRPC, sqlc, pgx
+**Python-стек:** FastAPI, Django, Celery, Pydantic
+
+**Архитектурные паттерны:**
+- Microservices, API Gateway, Circuit Breaker, Saga, Outbox, Event Sourcing, CQRS
+- Domain-Driven Design, Clean / Hexagonal Architecture, SOLID
+- Event-Driven Architecture, идемпотентность, exactly-once семантика на практике
+- Стратегии кэширования, шардирование, партиционирование, горизонтальное масштабирование
+- System Design под 10K+ одновременных пользователей и миллионы событий в сутки
+
+</details>
+
+<details>
+<summary><b>🗄️ Базы данных и брокеры сообщений</b></summary>
+<br/>
+
+**Реляционные:** PostgreSQL (основная, глубокая оптимизация), MySQL / MariaDB, Oracle, MS SQL Server, H2
+**NoSQL и поиск:** MongoDB, Redis, Cassandra, Elasticsearch, ClickHouse, InfluxDB, Neo4j
+**Векторные:** pgvector, Qdrant, Milvus, Weaviate, FAISS
+**Работа со схемой:** Liquibase, Flyway, Hibernate (борьба с N+1), MyBatis, JOOQ
+**Брокеры:** Apache Kafka, RabbitMQ, NATS, Pulsar, ActiveMQ, Redis Pub/Sub, AWS SQS/SNS, GCP Pub/Sub
+
+</details>
+
+<details>
+<summary><b>🧪 Тестирование и качество</b></summary>
+<br/>
+
+JUnit 5 · Mockito · MockK · TestContainers · Spock · AssertJ · WireMock · Cucumber · JMeter · Gatling · k6 · XCTest · Espresso · Compose UI Tests · Pact (contract testing) · SonarQube · мутационное тестирование
+
+Практики: пирамида тестов, тесты как документация, обязательные интеграционные тесты в CI, quality gates на merge request.
+
+</details>
+
+<details>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
+
+React (hooks, Context, Redux / Zustand, Next.js) · Angular 12+ (RxJS, NgRx, Material) · Vue 3 (Composition API, Pinia) · TypeScript · HTML5 / CSS3 · SCSS · Tailwind / Bootstrap · Vite / Webpack · PWA
+
+</details>
+
+---
+
+## 🧩 Внутренние платформы, библиотеки и SDK
+
+> Большая часть моей работы — не только фичи для клиента, но и **инструменты для самой компании**: платформенные сервисы и библиотеки, которые потом переиспользуют все команды.
+> Логика простая: если что-то нужно внедрить больше чем в одном сервисе — это не копипаста, а **своя внутренняя библиотека** с версионированием и документацией.
+
+<details>
+<summary><b>🗺️ Своя картографическая платформа</b> &nbsp;·&nbsp; <i>подняли карту внутри компании</i></summary>
+<br/>
+
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-295DAA?style=flat-square&logo=maplibre&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Self--hosted%20in%20K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+Подняли **собственную карту внутри компании** — вместо платных внешних API и с полным контролем над данными.
+
+- Свой **tile-сервер** на данных OpenStreetMap: импорт, стили, рендеринг и кэширование тайлов
+- **Геокодинг и обратный геокодинг**, поиск по адресам, привязка бизнес-объектов к координатам
+- **Маршрутизация**, расчёт ETA, построение зон и полигонов покрытия
+- Хранение геоданных в **PostGIS**, пространственные индексы, кластеризация тысяч маркеров без просадки UI
+- Клиентский слой на **MapLibre / Leaflet** + готовая обёртка-компонент для веба и мобильных приложений
+- Полностью **self-hosted в Kubernetes**: свои лимиты, свои SLA, ноль зависимости от внешнего вендора и его прайса
+
+**Итог:** команды получили карту «из коробки», расходы на внешние гео-API ушли, а чувствительные геоданные остались внутри контура компании.
+
+</details>
+
+<details>
+<summary><b>📡 IoT-платформа: устройства, телеметрия, MQTT</b></summary>
+<br/>
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![MQX](https://img.shields.io/badge/MQX-1f2937?style=flat-square)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+
+Работа с **реальным железом**, а не только с веб-сервисами.
+
+- Подключение устройств по **MQTT** через брокер **Eclipse Mosquitto** — топиковая схема, QoS, retained-сообщения, Last Will & Testament для мгновенного детекта «отвалившихся» устройств
+- Работа с устройствами на **MQX** и с прошивочной стороной — компактные форматы пакетов, ограничения по памяти и каналу, надёжная доставка в нестабильной сети
+- **Провижининг и авторизация устройств** — TLS-сертификаты, ACL по топикам, ротация ключей
+- **Приём телеметрии** — нормализация, батчинг, запись в time-series (**InfluxDB / ClickHouse**), даунсэмплинг исторических данных
+- **Команды на устройства** (downlink) — подтверждения, идемпотентность, очередь для офлайн-устройств
+- Мониторинг парка устройств: живость, дрейф показаний, автоалерты при отклонениях
+
+</details>
+
+<details>
+<summary><b>💳 Приём платежей в приложениях — ЮKassa и Альфа-Банк</b></summary>
+<br/>
+
+![ЮKassa](https://img.shields.io/badge/ЮKassa-8B3FFD?style=flat-square&logo=yandex&logoColor=white)
+![Альфа-Банк](https://img.shields.io/badge/Альфа--Банк%20Эквайринг-EF3124?style=flat-square)
+![СБП](https://img.shields.io/badge/СБП-00BFA5?style=flat-square)
+![3DS](https://img.shields.io/badge/3--D%20Secure-0f172a?style=flat-square)
+
+Сделал оплату внутри продуктов и мобильных приложений — от платёжного экрана до сверки денег.
+
+- Интеграция **ЮKassa**: оплата картой, **СБП**, сохранённые способы оплаты, рекуррентные списания, чеки по 54-ФЗ
+- Интеграция эквайринга **Альфа-Банка**: оплата в приложении, холдирование средств и последующее списание, частичные и полные возвраты
+- **Вебхуки и подтверждение статусов** — проверка подписи callback'ов, идемпотентность, защита от дублей и гонок
+- **Согласованность денег** — Outbox / Saga, ретраи с exponential backoff, автоматическая сверка с провайдером
+- Оплата в **мобильных приложениях (Android / iOS)** — платёжные экраны, 3-D Secure, deeplink-возврат в приложение, корректная обработка отменённых и «зависших» сценариев
+- Мониторинг конверсии оплат и алерты на рост отказов со стороны провайдера
+
+</details>
+
+<details>
+<summary><b>🔔 Платформа уведомлений</b> &nbsp;·&nbsp; <i>один сервис на всю компанию</i></summary>
+<br/>
+
+![FCM](https://img.shields.io/badge/Push%20FCM%20%2F%20APNs-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![SMS](https://img.shields.io/badge/SMS-4CAF50?style=flat-square)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+Раньше каждая команда пилила свою рассылку — сделали **единую платформу уведомлений**.
+
+- **Каналы:** Push (**FCM / APNs**), Email, SMS, Telegram, in-app и вебхуки
+- **Шаблоны** с версионированием и локализацией, подстановки, предпросмотр перед отправкой
+- **Маршрутизация и приоритеты** — fallback между каналами, если основной недоступен
+- **Дедупликация**, rate limiting, «тихие часы», подписки/отписки и согласия пользователей
+- **Батчинг и дайджесты**, отложенная и запланированная отправка
+- Асинхронная доставка через **Kafka**, ретраи, DLQ — гарантия, что уведомление не потерялось
+- **Аналитика**: доставлено / открыто / кликнуто, алерты при падении доставляемости
+- Подключение для команд — простой **REST/gRPC API + готовые SDK** под все стеки
+
+</details>
+
+<details>
+<summary><b>🖥️ Система мониторинга и учёта серверов компании (Go)</b></summary>
+<br/>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+Написал на **Go** систему, которая знает про серверный парк компании всё.
+
+- **Агенты на Go** на серверах: CPU / RAM / диски / сеть, температура, состояние сервисов, версии ПО
+- **Инвентаризация (CMDB)** — единый реестр серверов и железа: конфигурации, роли, владельцы, размещение, сроки гарантии и списания
+- **Автодискавери** новых хостов, дедупликация записей, история изменений конфигураций
+- Хранение метрик в time-series, экспорт в **Prometheus**, дашборды в **Grafana**, алертинг
+- Веб-панель и API — учёт, поиск, отчёты по загрузке и утилизации ресурсов
+- **Почему Go:** один статический бинарник, минимальное потребление ресурсов на хосте, лёгкая раскатка на сотни машин
+
+</details>
+
+<details>
+<summary><b>📚 Внутренние библиотеки и SDK — Java · Kotlin · Go · Node · Frontend</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Типовая история:** нужно внедрить что-то сразу в нескольких сервисах. Вместо копипасты по репозиториям — делаем **свою внутреннюю библиотеку**, публикуем во внутренний реестр, дальше команды подключают её одной строкой.
+
+**☕ Backend — Java / Kotlin**
+- Собственные **Spring Boot starters**: авторизация и JWT, аудит, единый формат логирования и трейсинга, обработка ошибок, идемпотентность, работа с Kafka и Outbox
+- Готовые клиенты внутренних сервисов с ретраями, circuit breaker и метриками «из коробки»
+
+**🐹 Backend — Go**
+- Пакеты: конфигурация, структурированное логирование, HTTP-middleware, gRPC-интерсепторы, OpenTelemetry, health-пробы, graceful shutdown
+- Кодогенерация клиентов из proto / OpenAPI
+
+**🟩 Node.js**
+- Внутренние npm-пакеты и **SDK** для интеграции с платформенными сервисами: уведомления, платежи, карта, авторизация
+
+**🎨 Frontend**
+- **UI-кит**: общие компоненты, дизайн-токены, темы, формы и валидация — единый стиль во всех продуктах компании
+- Клиентские SDK к внутренним API с типами из OpenAPI, обработкой ошибок и авторизацией
+
+**🔧 Как это живёт**
+- Внутренний реестр артефактов (Nexus / Artifactory / приватный npm), **семантическое версионирование**, changelog
+- Отдельный CI на публикацию, contract-тесты, документация с примерами, миграционные гайды между мажорными версиями
+
+**Эффект:** то, что раньше внедряли неделями в каждом сервисе отдельно, теперь подключается за час — и одинаково во всех командах.
+
+</details>
+
+---
+
+## 🔥 Боевые кейсы
+
+<details>
+<summary><b>🔐 Массовый отзыв сертификатов — производство не остановилось</b></summary>
+<br/>
+
+**Ситуация.** В компании внезапно **отозвали сертификаты**. Под ударом оказались сервисы, интеграции и оборудование на производстве — а любой простой здесь означает остановку производственной линии. Времени на «спокойно спланировать» не было.
+
+**Что сделал:**
+- Быстро собрал **карту зависимостей**: где именно используются сертификаты — сервисы в Kubernetes, ingress, mTLS между сервисами, брокеры, внешние интеграции, IoT-устройства
+- Приоритизировал всё по критичности для производства и **организовал параллельную работу нескольких команд**
+- Выпустил и **раскатал новые сертификаты**: обновление секретов и truststore, контролируемый перезапуск сервисов без обрыва трафика
+- Проверил цепочки доверия и совместимость на всех участках — включая устройства и legacy-клиентов, которые «не умеют» в новые алгоритмы
+
+**Чтобы это не повторилось:**
+- Внедрил **автоматическую ротацию** сертификатов и централизованное хранилище секретов
+- Настроил **мониторинг сроков и заблаговременные алерты** — а не «узнаём в момент отказа»
+- Описал **runbook** на случай повторного отзыва, чтобы это мог сделать любой дежурный инженер
+
+**Итог:** производство **не остановилось**, сервисы пережили переход, а разовый пожар превратился в управляемый автоматизированный процесс.
+
+</details>
+
+---
+
+## 💼 Ключевые проекты
+
+<details>
+<summary><b>🏢 Страховая компания ВСК — автоматизированная система найма</b> &nbsp;·&nbsp; <i>Senior Fullstack / Tech Lead</i></summary>
+<br/>
+
+Микросервисная система автоматизации найма — **1000+ заявок в день**.
+
+- **Архитектура:** 8 микросервисов, Event-Driven Architecture на Kafka, API Gateway с rate limiting и circuit breaker, CQRS
+- **Реализация:** Spring Boot + PostgreSQL + Minio, межсервисная авторизация через Keycloak (JWT), gRPC-интеграция с внешним HR-сервисом e-staff, real-time уведомления
+- **Frontend:** React SPA и Angular админ-панель
+- **Инфраструктура:** OpenShift с автоскейлингом, Prometheus + Grafana, ELK, CI/CD на GitLab CI
+
+**Результаты:** ⏱️ время обработки заявок **−70%** · 📈 пропускная способность **×5** · ✅ uptime **99.9%**
+
+`Java` `Spring Boot` `Keycloak` `gRPC` `Kafka` `React` `Angular` `PostgreSQL` `Minio` `OpenShift` `Prometheus` `Grafana` `ELK`
+
+</details>
+
+<details>
+<summary><b>⚡ «Синхронизатор» — система мониторинга выполнения работ</b> &nbsp;·&nbsp; <i>Tech Lead / Архитектор</i></summary>
+<br/>
+
+Enterprise-система планирования и мониторинга работ с расчётом критического пути по методу **PERT**.
+
+- **Архитектура:** многомодульное приложение Spring Boot + Kotlin, DDD с bounded contexts, Clean Architecture, event sourcing для audit trail
+- **Сложные задачи:** алгоритм PERT, генерация Excel-отчётов через Apache POI, Spring Batch на 100K+ записей, Camunda BPMN, двусторонняя синхронизация с Jira REST API
+- **Real-time:** WebSocket-обновления UI, NATS между сервисами, Redis-кэш
+- **Frontend:** React + TypeScript, живые дашборды, PWA
+
+**Результаты:** ⏱️ планирование быстрее на **80%** · 🎯 точность оценок **+60%** · 🏢 внедрено в **3 департаментах**
+
+`Kotlin` `Spring Boot` `PostgreSQL` `Flyway` `Apache POI` `Spring Batch` `Camunda` `NATS` `Redis` `React` `TypeScript` `WebSocket`
+
+</details>
+
+<details>
+<summary><b>🚚 Транспортная компания «Карго» — модернизация legacy-системы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<br/>
+
+- Миграция бизнес-логики с React-фронта на Spring Boot backend
+- Распил монолита на **4 микросервиса** с чёткими границами
+- Оптимизация SQL-запросов — время отклика **−40%**, Redis-кэширование
+- Frontend-оптимизации: lazy loading, useMemo / useCallback, code splitting, CDN
+
+`Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` `Angular` `Docker`
+
+</details>
+
+<details>
+<summary><b>👕 Lacoste — платформа управления товарами</b> &nbsp;·&nbsp; <i>Backend</i></summary>
+<br/>
+
+- Webhook-архитектура синхронизации с 1С вместо polling
+- Интеграция платёжной системы AlfaPOS (PCI DSS), CRM и программы лояльности через Mindbox API
+- Retry с exponential backoff, health checks всех внешних зависимостей
+- Kafka для асинхронной обработки событий, bulk-операции, connection pooling
+- Structured logging в Elasticsearch, Grafana-дашборды, подробная Swagger-документация
+
+`Spring Boot` `Java` `PostgreSQL` `Elasticsearch` `Kafka` `Redis` `Swagger` `Grafana`
+
+</details>
+
+<details>
+<summary><b>💼 Платформа поиска работы</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<br/>
+
+- Многоуровневая аутентификация: JWT + OAuth2 (Google, LinkedIn), 2FA, RBAC, rate limiting
+- Полнотекстовый поиск на Elasticsearch, cursor-based пагинация, Redis-кэш сессий
+- Платежи через InvoiceBox, subscription management с автопродлением, обработка вебхуков
+- Angular SPA + Material Design, real-time уведомления по WebSocket, PWA, тёмная тема
+
+`Java` `Spring Boot` `Spring Security` `Redis` `Elasticsearch` `Angular` `TypeScript` `InvoiceBox` `WebSocket`
+
+</details>
+
+<details>
+<summary><b>🔌 Контроль кабельных систем на производстве</b> &nbsp;·&nbsp; <i>Fullstack</i></summary>
+<br/>
+
+- Алгоритм автоматической генерации уникальной маркировки кабелей
+- ETL-скрипт миграции данных из Excel с валидацией, audit trail всех изменений
+- Offline-first подход с синхронизацией, генерация QR-кодов для физической маркировки
+
+`Python` `Django` `MySQL` `Linux` `Nginx` `uWSGI` `JavaScript`
+
+</details>
+
+<details>
+<summary><b>⚡ Мониторинг PDU-детекторов</b> &nbsp;·&nbsp; <i>DevOps / Backend</i></summary>
+<br/>
+
+- Развёртывание Zabbix в HA-конфигурации, SNMP-мониторинг PDU с кастомными метриками
+- Grafana-дашборды, алертинг в Telegram и email, automated failover
+- Python-скрипты автодискавери устройств, backup-стратегии критичных данных
+
+`Python` `SNMP` `Zabbix` `Django` `PostgreSQL` `Grafana` `Linux` `Nginx`
+
+</details>
+
+<details>
+<summary><b>🤖 Telegram-бот для Cloud Com (хакатон ОЭЗ)</b> &nbsp;·&nbsp; <i>Backend</i></summary>
+<br/>
+
+Многофункциональный бот за **48 часов**: регистрация с верификацией, иерархия ролей и админ-панель, игровая валютная система с транзакциями, rich-media контент.
+
+`Java` `Spring Boot` `PostgreSQL` `Telegram Bot API` `REST API` `Maven`
+
+</details>
+
+---
+
+## 📊 GitHub статистика
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorJordanJJJ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorJordanJJJ&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorJordanJJJ&hide_border=true&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=IgorJordanJJJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorJordanJJJ&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IgorJordanJJJ/IgorJordanJJJ/output/github-snake.svg" width="98%" />
+</picture>
+
+</div>
+
+---
+
+## 🧠 Soft skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Лидерство**
+- Руководство несколькими командами
+- Найм и техническое интервьюирование
+- Менторство, планы развития, перформанс-ревью
+- Архитектурные решения с оглядкой на бизнес
+- Декомпозиция, оценка сроков, управление рисками
+
+</td>
+<td valign="top" width="50%">
+
+**Коммуникация**
+- Презентация технических решений стейкхолдерам
+- Документирование архитектуры и API (ADR, C4)
+- Tech talks и knowledge sharing
+- Кросс-функциональная работа с Product, QA, DevOps, Data
+- Английский — **B2 (Upper-Intermediate)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Куда расту дальше
+
+```mermaid
+graph LR
+    A[Hands-on Engineer] --> B[Tech Lead / Team Lead]
+    B --> C[AI Platform & Architecture]
+    C --> D[Head of Engineering]
+    B -.-> C
+    C -.-> D
+```
+
+**Прокачиваю прямо сейчас:** LLM-инференс под высокой нагрузкой · Kotlin Multiplatform и Compose Multiplatform · eBPF и наблюдаемость на уровне ядра · Istio Service Mesh · Platform Engineering и developer experience · Cloud-архитектура (AWS / GCP)
+
+---
+
+## 📫 Связаться со мной
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@jordanigor-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jordanigor)
+[![Portfolio](https://img.shields.io/badge/Портфолио-website--business--card-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://website-business-card-72f2e.web.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-IgorJordanJJJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorJordanJJJ)
+
+**Открыт к обсуждению:** архитектура высоконагруженных систем · AI-платформы · мобильная разработка · менторство и консультации
+
+</div>
+
+---
+
+<div align="center">
+
+> *«Качественная архитектура — это не только о том, как код работает сегодня, но и о том, насколько легко его будет изменить завтра. Строю системы, которые растут вместе с бизнесом и не мешают разработчикам, которые с ними живут.»*
+
+`#TechLead` `#TeamLead` `#Java` `#Kotlin` `#Golang` `#Android` `#iOS` `#AI` `#MLOps` `#Kubernetes` `#DevOps` `#Microservices` `#IoT` `#MQTT` `#Payments` `#PlatformEngineering` `#SDK`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>

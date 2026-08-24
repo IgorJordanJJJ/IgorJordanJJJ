@@ -1,0 +1,95 @@
+# ─────────────────────────────────────────────
+#  IDE / редакторы
+# ─────────────────────────────────────────────
+
+# JetBrains (IntelliJ IDEA, WebStorm, GoLand, PyCharm, Android Studio, Rider)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+cmake-build-*/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse / NetBeans
+.classpath
+.project
+.settings/
+nbproject/
+
+# Vim / Emacs / прочие редакторы
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+\#*\#
+.\#*
+
+# ─────────────────────────────────────────────
+#  Системные файлы ОС
+# ─────────────────────────────────────────────
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+.Trash-*
+.fuse_hidden*
+
+# ─────────────────────────────────────────────
+#  Временные и служебные файлы
+# ─────────────────────────────────────────────
+*.bak
+*.tmp
+*.temp
+*.log
+*.orig
+*.rej
+.cache/
+tmp/
+temp/
+
+# ─────────────────────────────────────────────
+#  Секреты — на всякий случай, репозиторий публичный
+# ─────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.keystore
+secrets.*
+credentials.*
+
+# ─────────────────────────────────────────────
+#  Артефакты сборки (если вдруг появятся)
+# ─────────────────────────────────────────────
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.py[cod]

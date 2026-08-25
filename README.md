@@ -589,14 +589,13 @@ Enterprise-система планирования и мониторинга р�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorJordanJJJ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorJordanJJJ&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorJordanJJJ&theme=tokyonight" width="98%" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorJordanJJJ&hide_border=true&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorJordanJJJ&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorJordanJJJ&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=IgorJordanJJJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorJordanJJJ&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorJordanJJJ&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorJordanJJJ&theme=tokyonight&utcOffset=3" />
 
 <br/>
 
